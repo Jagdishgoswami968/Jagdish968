@@ -1,0 +1,15 @@
+#include <stdio.h>
+ int main()
+ {
+     int a,b,s,p,d;
+     printf("Enter 2 nos ");
+     scanf("%d %d",&a,&b);
+     s=a+b;
+     p=a*b;
+     if(a>b)
+         d=a-b;
+     else
+         d=b-a;
+     printf("Sum = %d  prod = %d  diff = %d",s,p,d);
+ return 0;
+ }
