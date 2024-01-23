@@ -1,4 +1,5 @@
-Write a program to find the smallest or greatest#include<stdio.h>
+Write a program to find the smallest or greatest            
+#include<stdio.h>
 void main()
 {
   // Variable declaration
